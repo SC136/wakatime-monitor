@@ -1,0 +1,6 @@
+logs/*
+!logs/.gitkeep
+
+# Local-only: old experiments and internal notes
+legacy/
+docs/
